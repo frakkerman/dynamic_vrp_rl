@@ -1,6 +1,6 @@
 # A Comparison of Reinforcement Learning Policies for Dynamic Vehicle Routing Problems with Stochastic Customer Requests
 
-This project contains code for the paper titled "A Comparison of Reinforcement Learning Policies for Dynamic Vehicle Routing Problems with Stochastic Customer Requests" by Fabian Akkerman, Martijn Mes, and Willem van Jaarsveld, see: [this paper](https://research.utwente.nl/en/publications/a-comparison-of-reinforcement-learning-policies-for-dynamic-vehic)
+This project contains code for the paper titled "A Comparison of Reinforcement Learning Policies for Dynamic Vehicle Routing Problems with Stochastic Customer Requests" by Fabian Akkerman, Martijn Mes, and Willem van Jaarsveld, see: [this paper](https://doi.org/10.1016/j.cie.2024.110747)
 
 ## Citation
 
@@ -8,11 +8,13 @@ When using the code or data in this repo, please cite the following work:
 
 ```
 @Article{Akkerman2024,
-	author={Akkerman, Fabian
- 	and {van Jaarsveld}, Willem
-	and Mes, Martijn},
+	author={Fabian Akkerman and Martijn Mes and Willem {van Jaarsveld}},
 	title={A Comparison of Reinforcement Learning Policies for Dynamic Vehicle Routing Problems with Stochastic Customer Requests},
-	year={2024}
+	journal = {Computers \& Industrial Engineering},
+	year={2024}.
+	doi = {https://doi.org/10.1016/j.cie.2024.110747},
+	pages = {110747},
+	issn = {0360-8352}
 }
 ```
 
